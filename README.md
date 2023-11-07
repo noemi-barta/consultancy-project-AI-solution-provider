@@ -48,8 +48,8 @@ The analyses conducted include:
 ## Repository Contents
 
 - Performance Analysis Script: The final Python script for comprehensive data analysis.
-- Summary of the Client Presentation: A preview of the 79-slide deck summarizing findings and strategic recommendations, with insights hidden for confidentiality clause reasons.
-- The template design was created in Canva following an extensive online research on their visual and brand identity.
+- Summary of the Client Presentation: A preview of the **79-slide final report** summarizing insights and strategic recommendations, with **results hidden for confidentiality clause reasons**.
+**The template was designed in Canva following an extensive online research on their visual and brand identity.**
 
 ## Data
 - Initial Dataset: Started with 144,800 entries spanning various client and campaign metrics.
