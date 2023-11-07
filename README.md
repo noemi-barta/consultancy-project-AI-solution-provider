@@ -47,7 +47,7 @@ The analyses conducted include:
   
 ## Repository Contents
 
-- Performance Analysis Script: The final Python script for comprehensive data analysis.
+- Final Analysis Script: The final Python script for comprehensive data analysis structured.
 - Summary of the Client Presentation: A preview of the **79-slide final report** summarizing insights and strategic recommendations, with **results hidden for confidentiality clause reasons**.
 **The template was designed in Canva following an extensive online research on their visual and brand identity.**
 
